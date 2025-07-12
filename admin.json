@@ -1,0 +1,12 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "storage": "./db/database.db",
+    "users": [
+      {
+        "user": "admin",
+        "pass": "admin"
+      }
+    ]
+  }
+}
